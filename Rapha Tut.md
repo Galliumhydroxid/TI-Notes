@@ -1,0 +1,8 @@
+- [[CMOS]]
+- [[Multiplexer (MUX)]]
+- [[PLA]]
+- [[Hasards]]
+- [[Speicherverwaltung]]
+- [[Minimierung]]
+- [[Schaltwerke]]
+- [[Pipelining]]
